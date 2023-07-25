@@ -1,52 +1,52 @@
 id,name,start,end,endEstimate,become,split,merge,links,colour,wikipedia
-RWG,Revolutionary Workers' Groups,1930,,,CPI1,,,,,
-CPI1,Communist Party of Ireland,1933,1941,,,,,,,
+RWG,Revolutionary Workers' Groups,1930,,,CPI1,,,,,https://en.wikipedia.org/wiki/Revolutionary_Workers%27_Groups
+CPI1,Communist Party of Ireland,1933,1941,,,,,,,https://en.wikipedia.org/wiki/Communist_Party_of_Ireland
 IWL,Irish Workers' League,1948,,,IWP,,,CPI1,,
-IWP,Irish Workers' Party,1962,,,CPI2,,,,,
-CPI2,Communist Party of Ireland,1970,,,,,,,,
+IWP,Irish Workers' Party,1962,,,CPI2,,,,,https://en.wikipedia.org/wiki/Irish_Workers%27_Party
+CPI2,Communist Party of Ireland,1970,,,,,,,,https://en.wikipedia.org/wiki/Communist_Party_of_Ireland
 AAA-PBP,Anti-Austerity Alliance – People Before Profit,2015,,,S-PBP,,,,,
 S-PBP,Solidarity – People Before Profit,2017,,,PBP-S,,,,,
-PBP-S,People Before Profit – Solidarity,2020,,,,,,,,
-WUA,Workers and Unemployed Action,1985,,,,,,,,
-I4C,Independents 4 Change,2014,,,,,,,,
-RtoC,Right to Change,2020,,,,,,,,
+PBP-S,People Before Profit – Solidarity,2020,,,,,,,,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
+WUA,Workers and Unemployed Action,1985,,,,,,,,https://en.wikipedia.org/wiki/Workers_and_Unemployed_Action
+I4C,Independents 4 Change,2014,,,,,,,,https://en.wikipedia.org/wiki/Independents_4_Change
+RtoC,Right to Change,2020,,,,,,,,https://en.wikipedia.org/wiki/Right_to_Change
 Ecology,Ecology Party of Ireland,1981,,,GreenAlliance,,,,#1cae70,
 GreenAlliance,Green Alliance,1983,,,Greens,,,,#1cae70,
-Greens,Green Party,1987,,,,,,,#1cae70,
-FN,Fís Nua,2010,,,,Greens,,,#4b7a00,
-ARG,An Rabharta Glas,2021,,,,Greens,,,#68b2a0,
-LP,Labour,1912,,,,,,,#ec0000,
-DL,Democratic Left,1992,1999,,,WP,LP,,#000000,
+Greens,Green Party,1987,,,,,,,#1cae70,https://en.wikipedia.org/wiki/Green_Party_(Ireland)
+FN,Fís Nua,2010,,,,Greens,,,#4b7a00,https://en.wikipedia.org/wiki/F%C3%ADs_Nua
+ARG,An Rabharta Glas,2021,,,,Greens,,,#68b2a0,https://en.wikipedia.org/wiki/An_Rabharta_Glas
+LP,Labour,1912,,,,,,,#ec0000,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
+DL,Democratic Left,1992,1999,,,WP,LP,,#000000,https://en.wikipedia.org/wiki/Democratic_Left_(Ireland)
 CDI,Community Democrats of Ireland,1979,1979,,,,,,,https://en.wikipedia.org/wiki/Community_Democrats_of_Ireland
 LPI,Liberal Party of Ireland,1967,1969,true,,,,,,https://en.wikipedia.org/wiki/Liberal_Party_of_Ireland
-SocDems,Social Democrats,2015,,,,,,,#742a8b,
+SocDems,Social Democrats,2015,,,,,,,#742a8b,https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)
 SKIA,South Kerry Independent Alliance,1992,,,KIA,,,,#981d4c,
-KIA,Kerry Independent Alliance,2016,,,,,,,#981d4c,
+KIA,Kerry Independent Alliance,2016,,,,,,,#981d4c,https://en.wikipedia.org/wiki/Kerry_Independent_Alliance
 SF,Sinn Féin,1905,,,OSF,,,,#086629,
 OSF,Sinn Féin [Official],1970,,,SFWP,,,,,
 SFWP,Sinn Féin The Workers' Party,1977,,,WP,,,,,
-WP,The Workers' Party,1982,,,,,,,#940413,
-CPnahE,Cumann Poblachta na hÉireann,1936,1937,,,,,,,
-CnanG,Cumann na nGaedheal,1923,,,FG,SF,,,,
-FG,Fine Gael,1933,,,,,,,#001b56,
-NP1,National Party,1924,1925,,,CnanG,,,,
-CÉ,Clann Éireann,1926,1927,,,CnanG,,,,
+WP,The Workers' Party,1982,,,,,,,#940413,https://en.wikipedia.org/wiki/Workers%27_Party_(Ireland)
+CPnahE,Cumann Poblachta na hÉireann,1936,1937,,,,,,,https://en.wikipedia.org/wiki/Cumann_Poblachta_na_h%C3%89ireann
+CnanG,Cumann na nGaedheal,1923,,,FG,SF,,,,https://en.wikipedia.org/wiki/Cumann_na_nGaedheal
+FG,Fine Gael,1933,,,,,,,#001b56,https://en.wikipedia.org/wiki/Fine_Gael
+NP1,National Party,1924,1925,,,CnanG,,,,"https://en.wikipedia.org/wiki/National_Party_(Ireland,_1924)"
+CÉ,Clann Éireann,1926,1927,,,CnanG,,,,https://en.wikipedia.org/wiki/Clann_%C3%89ireann
 WSPL,Women's Social and Progressive League,1937,1945,true,,,,,,https://en.wikipedia.org/wiki/Women%27s_Social_and_Progressive_League
 PD,Progressive Democrats,1985,2006,,,,,FF FG,#1251a2,https://en.wikipedia.org/wiki/Progressive_Democrats
-FF,Fianna Fáil,1926,,,,SF,,,#049946,
-IFF,Independent Fianna Fáil,1972,2006,,,FF,FF,,,
-AÉ,Aontacht Éireann,1971,1984,,,FF,,,,
+FF,Fianna Fáil,1926,,,,SF,,,#049946,https://en.wikipedia.org/wiki/Fianna_F%C3%A1il
+IFF,Independent Fianna Fáil,1972,2006,,,FF,FF,,,https://en.wikipedia.org/wiki/Independent_Fianna_F%C3%A1il
+AÉ,Aontacht Éireann,1971,1984,,,FF,,,,https://en.wikipedia.org/wiki/Aontacht_%C3%89ireann
 CnaP,Clann na Poblachta,1946,1965,,,,,,,https://en.wikipedia.org/wiki/Clann_na_Poblachta
-PSF,Sinn Féin [Provisional],1970,,,,SF,,,#086629,
-RSF,Republican Sinn Féin,1986,,,,PSF,,,,
-Éirígí,Éirígí,2006,,,,PSF,,,,
-Aontú,Aontú,2019,,,,PSF,,,#f79527,
-DDI,Direct Democracy Ireland,2010,,,,,,,#2a328f,
-IDP,Irish Democratic Party,2013,,,,DDI,,,#19538c,
+PSF,Sinn Féin [Provisional],1970,,,,SF,,,#086629,https://en.wikipedia.org/wiki/Sinn_F%C3%A9in
+RSF,Republican Sinn Féin,1986,,,,PSF,,,,https://en.wikipedia.org/wiki/Republican_Sinn_F%C3%A9in
+Éirígí,Éirígí,2006,,,,PSF,,,,https://en.wikipedia.org/wiki/%C3%89ir%C3%ADg%C3%AD
+Aontú,Aontú,2019,,,,PSF,,,#f79527,https://en.wikipedia.org/wiki/Aont%C3%BA
+DDI,Direct Democracy Ireland,2010,,,,,,,#2a328f,https://en.wikipedia.org/wiki/Direct_Democracy_Ireland
+IDP,Irish Democratic Party,2013,,,,DDI,,,#19538c,https://en.wikipedia.org/wiki/Irish_Democratic_Party
 NP2,National Party,1995,,,CD1,,,,,
 CD1,Christian Democrats,1998,,,CD2,,,,,
-CD2,Catholic Democrats,2012,2019,true,,,,,,
-CSP,Christian Solidarity Party,1991,2014,,,,,,#fefe00,
+CD2,Catholic Democrats,2012,2019,true,,,,,,https://en.wikipedia.org/wiki/Catholic_Democrats_(Ireland)
+CSP,Christian Solidarity Party,1991,2014,,,,,,#fefe00,https://en.wikipedia.org/wiki/Christian_Solidarity_Party
 CCP,Christian Centrist Party,1991,1994,,,,,,,https://en.wikipedia.org/wiki/Christian_Centrist_Party
 AnahA,Ailtirí na hAiséirghe,1942,1958,,,,,CnaP,,https://en.wikipedia.org/wiki/Ailtir%C3%AD_na_hAis%C3%A9irghe
 CornaP,Córas na Poblachta,1940,1944,true,,,,,,https://en.wikipedia.org/wiki/C%C3%B3ras_na_Poblachta
@@ -56,11 +56,11 @@ MRP,Monetary Reform Party,1943,1951,,,IMRA,,,,https://en.wikipedia.org/wiki/Iris
 LF,Lia Fáil,1957,1961,true,,,,MRA,,https://en.wikipedia.org/wiki/Lia_F%C3%A1il_(political_party)
 ICP,Immigration Control Platform,1998,,,,,,,,https://en.wikipedia.org/wiki/Immigration_Control_Platform
 II,Identity Ireland,2015,2023,true,,,,,,https://en.wikipedia.org/wiki/Identity_Ireland
-Renua,Renua,2015,,,,,,,#b72d39,
-NP3,National Party,2016,,,,,,,#234737,
-HDA,Human Dignity Alliance,2018,,,,,,,,
-IPP,Irish Parliamentary Party,1874,1922,,,,,,#285aa1,
-IUP,Irish Unionist Party,1891,1922,,,,,,#42791b,
+Renua,Renua,2015,,,,,,,#b72d39,https://en.wikipedia.org/wiki/Renua
+NP3,National Party,2016,,,,,,,#234737,"https://en.wikipedia.org/wiki/National_Party_(Ireland,_2016)"
+HDA,Human Dignity Alliance,2018,,,,,,,,https://en.wikipedia.org/wiki/Human_Dignity_Alliance
+IPP,Irish Parliamentary Party,1874,1922,,,,,,#285aa1,https://en.wikipedia.org/wiki/Irish_Parliamentary_Party
+IUP,Irish Unionist Party,1891,1922,,,,,,#42791b,https://en.wikipedia.org/wiki/Irish_Unionist_Alliance
 BPG,Business and Professional Group,1922,1923,,,,,,,https://en.wikipedia.org/wiki/Business_and_Professional_Group
 NLP,National League Party,1926,1931,,,,,,,https://en.wikipedia.org/wiki/National_League_Party
 FP,Farmers' Party,1922,1932,,,,NCP,,,https://en.wikipedia.org/wiki/Farmers%27_Party_(Ireland)

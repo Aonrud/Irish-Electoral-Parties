@@ -22,6 +22,7 @@ class WikipediaPopover {
 			"#diagram",
 			{
 				target: selector,
+				theme: "tl",
 				content: 'Loading...',
 				allowHTML: true,
 				interactive: true,

@@ -1,0 +1,24 @@
+@use 'node_modules/timeline/src/timeline';
+@use 'node_modules/timeline/src/timeline-dark';
+@use 'node_modules/tippy.js/dist/tippy.css';
+
+.label {
+	position: absolute;
+	top: 140px;
+	left: 120px;
+	max-width: 26em;
+	border: 1px solid var(--tl-colour-border);
+	background: var(--tl-colour-background-feature);
+	padding: 1em;
+	color: var(--tl-colour-text);
+	h1 {
+		margin: 0;
+	}
+	ol {
+		margin-bottom: 0;
+	}
+}
+
+.entry[data-wikipedia] {
+	cursor: pointer;
+}

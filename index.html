@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Timeline of Electoral Parties in the Republic of Ireland</title>
+		<meta charset="utf-8" />
+		<link href="styles.min.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div id="diagram">
+			<div class="label timeline-exclude">
+				<h1>Electoral Parties in the Republic of Ireland</h1>
+				<p>This is a timeline of parties that have stood for elections at Oireachtas or local level in the Republic of Ireland (and the Free State). Parties are included if:</p>
+				<ol>
+					<li>they have either had seats in local government, the Dáil or the Seanad, including by defection/formation by representatives elected for another party, or
+					</li>
+					<li>they have at some point in their existence stood candidates for election, including where those candidates were officially 'Independent' due to lack of registration but were known to be running under the party banner.
+					</li>
+				</ol>
+			</div>
+		</div>
+		<div class="controls">
+			<form id="timeline-find">
+					<input type="text" name="finder" 
+						placeholder="Type to find an entry" aria-label="Find an entry" />
+			</form>
+			<div class="zoom-buttons" role="group" aria-label="Diagram Zoom Controls">
+				<button id="timeline-zoom-out" type="button">Zoom Out</button>
+				<button id="timeline-zoom-reset" type="button">Reset</button>
+				<button id="timeline-zoom-in" type="button">Zoom In</button>
+			</div>
+		</div>
+		<script src="diagram.min.js"></script>
+	</body>
+</html>

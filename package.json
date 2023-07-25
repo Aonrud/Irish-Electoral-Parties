@@ -1,0 +1,16 @@
+{
+	"devDependencies": {
+		"@panzoom/panzoom": "^4.5.1",
+		"@rollup/plugin-node-resolve": "^15.1.0",
+		"@rollup/plugin-replace": "^5.0.2",
+		"@rollup/plugin-terser": "^0.4.3",
+		"csv-rex": "^0.7.0",
+		"rollup": "^3.26.3",
+		"timeline": "github:Aonrud/Timeline.js",
+		"tippy.js": "^6.3.7"
+	},
+	"scripts": {
+		"js": "rollup -c",
+		"css": "sass --style compressed styles.scss styles.min.css"
+	}
+}

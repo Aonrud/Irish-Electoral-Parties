@@ -8,6 +8,14 @@ This is the source repository for the Timeline of Electoral Parties in the Repub
 
 The party information is collated in [`parties.csv`](parties.csv). The diagram draws its information directly from this file, and will include an information box when an entry is clicked if a Wikipedia link is included.
 
+### Contributing
+
+Any additions or corrections are welcome. If you are familiar with Github, please feel free to [create an issue](https://github.com/Aonrud/Irish-Electoral-Parties/issues) or send a [pull request](https://github.com/Aonrud/Irish-Electoral-Parties/pulls).
+
+If you are not familiar with using Git, you can also email me directly at [aonrud@fastmail.com](mailto:aonrud@fastmail.com).
+
+**Note:** Please make sure to include a source or reference if suggesting a party for inclusion that isn't easily verified.
+
 ### Inclusion criteria
 
 Parties are included if:

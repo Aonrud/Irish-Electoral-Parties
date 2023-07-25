@@ -11,6 +11,6 @@
 	},
 	"scripts": {
 		"js": "rollup -c",
-		"css": "sass --style compressed styles.scss styles.min.css"
+		"css": "sass --style compressed styles.scss docs/styles.min.css"
 	}
 }

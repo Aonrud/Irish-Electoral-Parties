@@ -6,7 +6,7 @@ export default {
 	input: 'diagram.js',
 	output:
 		{
-			file: 'diagram.min.js',
+			file: 'docs/diagram.min.js',
 			format: 'umd',
 			plugins: [terser()],
 		},

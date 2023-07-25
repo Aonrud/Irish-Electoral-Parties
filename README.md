@@ -2,7 +2,7 @@ This is the source repository for the Timeline of Electoral Parties in the Repub
 
 [View the timeline at https://aonrud.github.io/Irish-Electoral-Parties/](https://aonrud.github.io/Irish-Electoral-Parties/)
 
-**This is currently in a draft state**
+**This is currently in a draft state. The party data is incomplete, and the diagram positioning requires correction to avoid e.g. crossing lines.**
 
 ## Data
 

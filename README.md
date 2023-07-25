@@ -6,7 +6,7 @@ This is the source repository for the Timeline of Electoral Parties in the Repub
 
 ## Data
 
-The party information is collated in [`parties.csv`](parties.csv). The diagram draws its information directly from this file, and will include an information box when an entry is clicked if a Wikipedia link is included.
+The party information is collated in [`docs/parties.csv`](docs/parties.csv). The diagram draws its information directly from this file, and will include an information box when an entry is clicked if a Wikipedia link is included.
 
 ### Contributing
 
@@ -14,7 +14,10 @@ Any additions or corrections are welcome. If you are familiar with Github, pleas
 
 If you are not familiar with using Git, you can also email me directly at [aonrud@fastmail.com](mailto:aonrud@fastmail.com).
 
-**Note:** Please make sure to include a source or reference if suggesting a party for inclusion that isn't easily verified.
+**Notes:**
+
+* Please make sure to include a source or reference if suggesting a party for inclusion that isn't easily verified.
+* Each party has an ID. The initials will usually do, but please make sure it is unique.
 
 ### Inclusion criteria
 

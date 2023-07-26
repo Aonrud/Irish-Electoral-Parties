@@ -13,7 +13,6 @@ class WikipediaPopover {
 		const wrapInstance = this;
 		
 		const elements = document.getElementById("diagram").querySelectorAll(selector);
-		console.log(elements);
 		for (const element of elements) {
 			element.classList.add("entry-popover");
 		}
@@ -54,11 +53,7 @@ class WikipediaPopover {
 	}
 }
 
-fetch("parties.csv")
-.then(response => {
-	return response.text();
-})
-.then(csv => {
+function processCsv(csv) {
 	const data = parse(csv);
 	for (const entry of data) {
 		for(const p in entry) {
@@ -67,13 +62,29 @@ fetch("parties.csv")
 			}
 		}
 	}
+	return data;
+}
+
+Promise.all([
+	fetch("parties.csv"),
+	fetch("events.csv")
+])
+.then( (responses) => { 
+	return Promise.all(responses.map( (response) => { return response.text() }) )
+})
+.then( (results) => {
+	console.log(results);
+	const parties = processCsv(results[0]);
+	const events = processCsv(results[1]);
+
 	const tl = new Timeline(
 		"diagram",
 		{
 			yearStart: 1915,
 			panzoom: Panzoom
 		},
-		data
+		parties,
+		events
 	);
 	tl.create();
 })

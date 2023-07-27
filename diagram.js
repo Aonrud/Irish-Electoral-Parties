@@ -73,7 +73,6 @@ Promise.all([
 	return Promise.all(responses.map( (response) => { return response.text() }) )
 })
 .then( (results) => {
-	console.log(results);
 	const parties = processCsv(results[0]);
 	const events = processCsv(results[1]);
 

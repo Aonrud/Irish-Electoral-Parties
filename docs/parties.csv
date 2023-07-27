@@ -53,8 +53,9 @@ IDP,Irish Democratic Party,2013,,,,DDI,,,#19538c,https://en.wikipedia.org/wiki/I
 NP2,National Party,1995,,,CD1,,,,,
 CD1,Christian Democrats,1998,,,CD2,,,,,
 CD2,Catholic Democrats,2012,2019,true,,,,,,https://en.wikipedia.org/wiki/Catholic_Democrats_(Ireland)
-CSP,Christian Solidarity Party,1991,2014,,,,,,#fefe00,https://en.wikipedia.org/wiki/Christian_Solidarity_Party
-CCP,Christian Centrist Party,1991,1994,,,,,,,https://en.wikipedia.org/wiki/Christian_Centrist_Party
+CPP,Christian Principles Party,1991,1992,,CCP,,,,,
+CSP,Christian Solidarity Party,1994,2014,,,,,,#fefe00,https://en.wikipedia.org/wiki/Christian_Solidarity_Party
+CCP,Christian Centrist Party,1992,1994,,CSP,,,,,https://en.wikipedia.org/wiki/Christian_Centrist_Party
 AnahA,Ailtirí na hAiséirghe,1942,1958,,,,,CnaP,,https://en.wikipedia.org/wiki/Ailtir%C3%AD_na_hAis%C3%A9irghe
 CornaP,Córas na Poblachta,1940,1944,true,,,,,,https://en.wikipedia.org/wiki/C%C3%B3ras_na_Poblachta
 IMRA,Irish Monetary Reform Association,1941,1943,,,,,,,https://en.wikipedia.org/wiki/Irish_Monetary_Reform_Association

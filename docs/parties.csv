@@ -4,10 +4,17 @@ CPI1,Communist Party of Ireland,1933,1941,,,,,,,https://en.wikipedia.org/wiki/Co
 IWL,Irish Workers' League,1948,,,IWP,,,CPI1,,
 IWP,Irish Workers' Party,1962,,,CPI2,,,,,https://en.wikipedia.org/wiki/Irish_Workers%27_Party
 CPI2,Communist Party of Ireland,1970,,,,,,,,https://en.wikipedia.org/wiki/Communist_Party_of_Ireland
-AAA-PBP,Anti-Austerity Alliance – People Before Profit,2015,,,S-PBP,,,,,
-S-PBP,Solidarity – People Before Profit,2017,,,PBP-S,,,,,
-PBP-S,People Before Profit – Solidarity,2020,,,,,,,,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
+SLP,Socialist Labour Party,1977,1982,,,,,,,https://en.wikipedia.org/wiki/Socialist_Labour_Party_(Ireland)
+AAA-PBP,Anti-Austerity Alliance – People Before Profit,2015,,,S-PBP,,,PBP AAA,,
+S-PBP,Solidarity – People Before Profit,2017,,,PBP-S,,,PBP Solidarity,,
+PBP-S,People Before Profit – Solidarity,2020,,,,,,PBP Solidarity,,https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity
 WUA,Workers and Unemployed Action,1985,,,,,,,,https://en.wikipedia.org/wiki/Workers_and_Unemployed_Action
+ULA,United Left Alliance,2010,2014,,,,,PBP SP WUA,,https://en.wikipedia.org/wiki/United_Left_Alliance
+PBP,People Before Profit,2005,,,,,,SWP,#d71d47,https://en.wikipedia.org/wiki/People_Before_Profit
+SWP,Socialist Workers’ Party,1995,2018,,,,PBP,,#fe052d,https://en.wikipedia.org/wiki/Socialist_Workers_Network
+SP,Socialist Party,1996,,,,,,,#ed212c,https://en.wikipedia.org/wiki/Socialist_Party_(Ireland)
+AAA,Anti-Austerity Alliance,2014,2017,,Solidarity,,,SP,#f8ed2f,
+Solidarity,Solidarity,2017,,,,,,,,https://en.wikipedia.org/wiki/Solidarity_(Ireland)
 I4C,Independents 4 Change,2014,,,,,,,,https://en.wikipedia.org/wiki/Independents_4_Change
 RtoC,Right to Change,2020,,,,,,,,https://en.wikipedia.org/wiki/Right_to_Change
 Ecology,Ecology Party of Ireland,1981,,,GreenAlliance,,,,#1cae70,

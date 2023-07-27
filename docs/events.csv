@@ -30,7 +30,6 @@ year,content,target,colour
 2011,General election,,#77B643
 2016,General election,,#77B643
 2020,General election,,#77B643
-1992,Democratic Left split from the WP including 6 of its 7 TDs.,WP,
 1920,Local elections,,#43B683
 1925,Local elections,,#43B683
 1928,Local elections,,#43B683
@@ -60,3 +59,9 @@ year,content,target,colour
 2009,European Election,,#8343B6
 2014,European Election,,#8343B6
 2019,European Election,,#8343B6
+1992,Democratic Left split from the WP including 6 of its 7 TDs.,WP,
+2015,The SP contests elections as part of AAA and Solidarity.,SP,
+2005,The SWP contests elections as party of PBP.,SWP,
+2010,PBP contests elections as part of ULA,PBP,
+2010,SP contests elections as part of ULA,SP,
+2010,WUA contests elections as part of ULA,WUA,

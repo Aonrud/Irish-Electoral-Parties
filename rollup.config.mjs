@@ -8,7 +8,7 @@ export default {
 		{
 			file: 'docs/diagram.min.js',
 			format: 'umd',
-			// plugins: [terser()],
+			plugins: [terser()],
 		},
 	plugins: [
 		resolve(),

@@ -1,32 +1,62 @@
-year,content,target
-1918,The first Dáil,
-1921,General election,
-1922,General election,
-1923,General election,
-1927,"Two general elections, June and September",
-1932,General election,
-1933,General election,
-1937,General election,
-1938,General election,
-1943,General election,
-1944,General election,
-1948,General election,
-1951,General election,
-1954,General election,
-1957,General election,
-1961,General election,
-1965,General election,
-1969,General election,
-1973,General election,
-1977,General election,
-1981,General election,
-1982,"Two general elections, February and November",
-1987,General election,
-1989,General election,
-1992,General election,
-1997,General election,
-2002,General election,
-2007,General election,
-2011,General election,
-2016,General election,
-2020,General election,
+year,content,target,colour
+1918,The first Dáil,,#77B643
+1921,General election,,#77B643
+1922,General election,,#77B643
+1923,General election,,#77B643
+1927,"Two general elections, June and September",,#77B643
+1932,General election,,#77B643
+1933,General election,,#77B643
+1937,General election,,#77B643
+1938,General election,,#77B643
+1943,General election,,#77B643
+1944,General election,,#77B643
+1948,General election,,#77B643
+1951,General election,,#77B643
+1954,General election,,#77B643
+1957,General election,,#77B643
+1961,General election,,#77B643
+1965,General election,,#77B643
+1969,General election,,#77B643
+1973,General election,,#77B643
+1977,General election,,#77B643
+1981,General election,,#77B643
+1982,"Two general elections, February and November",,#77B643
+1987,General election,,#77B643
+1989,General election,,#77B643
+1992,General election,,#77B643
+1997,General election,,#77B643
+2002,General election,,#77B643
+2007,General election,,#77B643
+2011,General election,,#77B643
+2016,General election,,#77B643
+2020,General election,,#77B643
+1992,Democratic Left split from the WP including 6 of its 7 TDs.,WP,
+1920,Local elections,,#43B683
+1925,Local elections,,#43B683
+1928,Local elections,,#43B683
+1934,Local elections,,#43B683
+1942,Local elections,,#43B683
+1945,Local elections,,#43B683
+1950,Local elections,,#43B683
+1955,Local elections,,#43B683
+1960,Local elections,,#43B683
+1967,Local elections,,#43B683
+1974,Local elections,,#43B683
+1979,Local elections,,#43B683
+1985,Local elections,,#43B683
+1991,Local elections,,#43B683
+1994,Local elections,,#43B683
+1999,Local elections,,#43B683
+2004,Local elections,,#43B683
+2009,Local elections,,#43B683
+2014,Local elections,,#43B683
+2019,Local elections,,#43B683
+1979,European Election,,#8343B6
+1984,European Election,,#8343B6
+1989,European Election,,#8343B6
+1994,European Election,,#8343B6
+1999,European Election,,#8343B6
+2004,European Election,,#8343B6
+2009,European Election,,#8343B6
+2014,European Election,,#8343B6
+2019,European Election,,#8343B6

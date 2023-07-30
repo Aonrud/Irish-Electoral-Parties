@@ -42,18 +42,6 @@ Parties are included if:
 1. they have held seats at local or Oireachtas level in the Republic of Ireland, including by defection/formation by representatives elected for another party;
 2. they have at some point in their existence stood candidates for election, including where those candidates were officially 'Independent' due to lack of registration but were known to be running under the party banner.
 
-### Current status
-
-* Main current electoral parties are all included, along with a scattering of others. Far from complete list.
-* Several Wikipedia links are missing.
-
-## Implementation
-
-### Current status
-
-* Proper layout depends on either manual row positioning or new Timeline.js version.
-* CSS is incomplete.
-
 * * *
 
 ## Licence

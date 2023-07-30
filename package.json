@@ -5,7 +5,7 @@
 		"@rollup/plugin-replace": "^5.0.2",
 		"@rollup/plugin-terser": "^0.4.3",
 		"csv-rex": "^0.7.0",
-		"rollup": "^3.26.3",
+		"rollup": "^3.27.0",
 		"timeline": "github:Aonrud/Timeline.js",
 		"tippy.js": "^6.3.7"
 	},

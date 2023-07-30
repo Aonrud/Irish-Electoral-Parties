@@ -10,22 +10,22 @@ devDependencies:
     version: 4.5.1
   '@rollup/plugin-node-resolve':
     specifier: ^15.1.0
-    version: 15.1.0(rollup@3.26.3)
+    version: 15.1.0(rollup@3.27.0)
   '@rollup/plugin-replace':
     specifier: ^5.0.2
-    version: 5.0.2(rollup@3.26.3)
+    version: 5.0.2(rollup@3.27.0)
   '@rollup/plugin-terser':
     specifier: ^0.4.3
-    version: 0.4.3(rollup@3.26.3)
+    version: 0.4.3(rollup@3.27.0)
   csv-rex:
     specifier: ^0.7.0
     version: 0.7.0
   rollup:
-    specifier: ^3.26.3
-    version: 3.26.3
+    specifier: ^3.27.0
+    version: 3.27.0
   timeline:
     specifier: github:Aonrud/Timeline.js
-    version: github.com/Aonrud/Timeline.js/e45df3046e186cbdb1ec84974799a6bcb855a8aa
+    version: github.com/Aonrud/Timeline.js/aaa26a855c367162fe598efc3f6980db519390bb
   tippy.js:
     specifier: ^6.3.7
     version: 6.3.7
@@ -81,7 +81,7 @@ packages:
     resolution: {integrity: sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A==}
     dev: true
 
-  /@rollup/plugin-node-resolve@15.1.0(rollup@3.26.3):
+  /@rollup/plugin-node-resolve@15.1.0(rollup@3.27.0):
     resolution: {integrity: sha512-xeZHCgsiZ9pzYVgAo9580eCGqwh/XCEUM9q6iQfGNocjgkufHAqC3exA+45URvhiYV8sBF9RlBai650eNs7AsA==}
     engines: {node: '>=14.0.0'}
     peerDependencies:
@@ -90,16 +90,16 @@ packages:
       rollup:
         optional: true
     dependencies:
-      '@rollup/pluginutils': 5.0.2(rollup@3.26.3)
+      '@rollup/pluginutils': 5.0.2(rollup@3.27.0)
       '@types/resolve': 1.20.2
       deepmerge: 4.3.1
       is-builtin-module: 3.2.1
       is-module: 1.0.0
       resolve: 1.22.2
-      rollup: 3.26.3
+      rollup: 3.27.0
     dev: true
 
-  /@rollup/plugin-replace@5.0.2(rollup@3.26.3):
+  /@rollup/plugin-replace@5.0.2(rollup@3.27.0):
     resolution: {integrity: sha512-M9YXNekv/C/iHHK+cvORzfRYfPbq0RDD8r0G+bMiTXjNGKulPnCT9O3Ss46WfhI6ZOCgApOP7xAdmCQJ+U2LAA==}
     engines: {node: '>=14.0.0'}
     peerDependencies:
@@ -108,12 +108,12 @@ packages:
       rollup:
         optional: true
     dependencies:
-      '@rollup/pluginutils': 5.0.2(rollup@3.26.3)
+      '@rollup/pluginutils': 5.0.2(rollup@3.27.0)
       magic-string: 0.27.0
-      rollup: 3.26.3
+      rollup: 3.27.0
     dev: true
 
-  /@rollup/plugin-terser@0.4.3(rollup@3.26.3):
+  /@rollup/plugin-terser@0.4.3(rollup@3.27.0):
     resolution: {integrity: sha512-EF0oejTMtkyhrkwCdg0HJ0IpkcaVg1MMSf2olHb2Jp+1mnLM04OhjpJWGma4HobiDTF0WCyViWuvadyE9ch2XA==}
     engines: {node: '>=14.0.0'}
     peerDependencies:
@@ -122,13 +122,13 @@ packages:
       rollup:
         optional: true
     dependencies:
-      rollup: 3.26.3
+      rollup: 3.27.0
       serialize-javascript: 6.0.1
       smob: 1.4.0
       terser: 5.19.2
     dev: true
 
-  /@rollup/pluginutils@5.0.2(rollup@3.26.3):
+  /@rollup/pluginutils@5.0.2(rollup@3.27.0):
     resolution: {integrity: sha512-pTd9rIsP92h+B6wWwFbW8RkZv4hiR/xKsqre4SIuAOaOEQRxi0lqLke9k2/7WegC85GgUs9pjmOjCUi3In4vwA==}
     engines: {node: '>=14.0.0'}
     peerDependencies:
@@ -140,7 +140,7 @@ packages:
       '@types/estree': 1.0.1
       estree-walker: 2.0.2
       picomatch: 2.3.1
-      rollup: 3.26.3
+      rollup: 3.27.0
     dev: true
 
   /@types/estree@1.0.1:
@@ -256,8 +256,8 @@ packages:
       supports-preserve-symlinks-flag: 1.0.0
     dev: true
 
-  /rollup@3.26.3:
-    resolution: {integrity: sha512-7Tin0C8l86TkpcMtXvQu6saWH93nhG3dGQ1/+l5V2TDMceTxO7kDiK6GzbfLWNNxqJXm591PcEZUozZm51ogwQ==}
+  /rollup@3.27.0:
+    resolution: {integrity: sha512-aOltLCrYZ0FhJDm7fCqwTjIUEVjWjcydKBV/Zeid6Mn8BWgDCUBBWT5beM5ieForYNo/1ZHuGJdka26kvQ3Gzg==}
     engines: {node: '>=14.18.0', npm: '>=8.0.0'}
     hasBin: true
     optionalDependencies:
@@ -312,8 +312,8 @@ packages:
       '@popperjs/core': 2.11.8
     dev: true
 
-  github.com/Aonrud/Timeline.js/e45df3046e186cbdb1ec84974799a6bcb855a8aa:
-    resolution: {tarball: https://codeload.github.com/Aonrud/Timeline.js/tar.gz/e45df3046e186cbdb1ec84974799a6bcb855a8aa}
+  github.com/Aonrud/Timeline.js/aaa26a855c367162fe598efc3f6980db519390bb:
+    resolution: {tarball: https://codeload.github.com/Aonrud/Timeline.js/tar.gz/aaa26a855c367162fe598efc3f6980db519390bb}
     name: timeline
     version: 1.4.0
     optionalDependencies:

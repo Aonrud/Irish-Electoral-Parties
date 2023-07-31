@@ -56,8 +56,8 @@ NCM,National Citizen’s Movement,2014,2015,,,,DDI,,,
 DDI,Direct Democracy Ireland,2010,,,,,,,#2a328f,https://en.wikipedia.org/wiki/Direct_Democracy_Ireland
 IDP,Irish Democratic Party,2013,,,,DDI,,,#19538c,https://en.wikipedia.org/wiki/Irish_Democratic_Party
 UP,United People,2015,,,,DDI,,,,
-NP2,National Party,1995,,,CD1,,,,,
 CDP,Christian Democrat Party of Ireland,1961,1982,TRUE,,,,,,
+NP2,National Party,1995,,,CD1,CSP,,,,
 CD1,Christian Democrats,1998,,,CD2,,,,,
 CD2,Catholic Democrats,2012,2019,true,,,,,,https://en.wikipedia.org/wiki/Catholic_Democrats_(Ireland)
 CPP,Christian Principles Party,1991,1992,,CCP,,,,,

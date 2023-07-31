@@ -66,8 +66,8 @@ function processCsv(csv) {
 }
 
 Promise.all([
-	fetch("parties.csv"),
-	fetch("events.csv")
+	fetch("parties.csv", {cache: "no-cache"}),
+	fetch("events.csv", {cache: "no-cache"})
 ])
 .then( (responses) => { 
 	return Promise.all(responses.map( (response) => { return response.text() }) )

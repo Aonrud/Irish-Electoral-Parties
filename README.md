@@ -61,7 +61,7 @@ If you are not familiar with using Github, you can also email me directly at [ao
 
 ## Contributors
 
-Thanks to the following people for providing additions and corrections to the timeline: John Goodwillie, Paul Cullotty.
+Thanks to the following people for providing additions and corrections to the timeline: Alan Kinsella, John Goodwillie, Paul Cullotty.
 
 * * *
 

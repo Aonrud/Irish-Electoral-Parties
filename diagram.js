@@ -38,7 +38,6 @@ class WikipediaPopover {
 	}
 	
 	async getPopoverContents(el) {
-		console.log("Contents requested");
 		const link = el.dataset.wikipedia;
 		const title = link.substring(link.lastIndexOf("/")+1);
 		const url =  `https://en.wikipedia.org/w/api.php?format=json&action=query&explaintext&prop=extracts|info|pageprops&exsentences=3&titles=${title}&origin=*`;
@@ -66,8 +65,6 @@ function processCsv(csv) {
 	return data;
 }
 
-new Toggler(document.querySelector("[data-toggle-target]"));
-
 Promise.all([
 	fetch("parties.csv", {cache: "no-cache"}),
 	fetch("events.csv", {cache: "no-cache"})
@@ -92,4 +89,11 @@ Promise.all([
 })
 
 new WikipediaPopover("[data-wikipedia]");
+new Toggler(document.querySelector("[data-toggle-target]"));
+
+document.getElementById("diagram").addEventListener('timelineFind', (e) => {
+	console.log(e);
+	e.target.querySelector(`#${e.detail.id}`).click();
+	umami.track('Timeline Search', { value: e.detail.name });
+});
 

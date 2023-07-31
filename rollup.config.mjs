@@ -14,6 +14,7 @@ export default {
 		resolve(),
 		//Needed for Tippy.js
 		replace({
+			preventAssignment: true,
 			'process.env.NODE_ENV': JSON.stringify('production'),
 		}),
 	]

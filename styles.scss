@@ -2,6 +2,7 @@
 @use 'node_modules/timeline/src/timeline-dark';
 @use 'node_modules/tippy.js/dist/tippy.css';
 @use 'node_modules/tippy.js/dist/border.css';
+@use 'node_modules/ila_ui_elements/src/scss/toggler';
 @use "sass:color";
 
 $main: #9c3020;
@@ -37,7 +38,26 @@ a {
 	color: var(--colour-main);
 }
 
+button, input {
+	line-height: 2em;
+}
+
+button {
+	cursor: pointer;
+	border: 1px solid var(--tl-colour-stroke);
+	border-radius: var(--tl-size-border);
+	background: var(--tl-colour-background);
+	font-size: 1em;
+	line-height: 1.2em;
+	color: var(--tl-colour-text);
+	padding: 0.3em;
+	&:hover, &:focus {
+		background: var(--tl-colour-background-feature);
+	}
+}
+
 .label {
+	z-index: 12;
 	position: absolute;
 	top: 100px;
 	left: 50px;
@@ -51,6 +71,24 @@ a {
 	}
 	ol {
 		margin-bottom: 0;
+	}
+}
+
+#legend {
+	background: var(--tl-colour-background);
+	margin: 1em -1em -1em;
+	border-top: 1px solid var(--tl-colour-border);
+	ul {
+		list-style: none;
+		padding: 1em;
+		li {
+			border-top: 1px dashed var(--tl-colour-border);
+			padding: 1em;
+			text-align: center;
+			&:first-child {
+				border-top: none;
+			}
+		}
 	}
 }
 

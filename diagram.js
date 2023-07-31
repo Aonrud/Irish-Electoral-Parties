@@ -2,6 +2,7 @@ import { parse } from 'csv-rex'
 import Panzoom from '@panzoom/panzoom'
 import Timeline from 'timeline/dist/timeline.esm.js'
 import { delegate } from 'tippy.js'
+import { Toggler } from 'ila_ui_elements/dist/ila-ui.esm.js'
 
 /**
  * Add a Tippy popover with a Wikipedia summary for entries with a `data-wikipedia` attribute.
@@ -65,6 +66,8 @@ function processCsv(csv) {
 	return data;
 }
 
+new Toggler(document.querySelector("[data-toggle-target]"));
+
 Promise.all([
 	fetch("parties.csv", {cache: "no-cache"}),
 	fetch("events.csv", {cache: "no-cache"})
@@ -89,3 +92,4 @@ Promise.all([
 })
 
 new WikipediaPopover("[data-wikipedia]");
+

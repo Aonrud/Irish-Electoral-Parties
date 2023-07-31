@@ -12,5 +12,8 @@
 	"scripts": {
 		"js": "rollup -c",
 		"css": "sass --style compressed styles.scss docs/styles.min.css"
+	},
+	"dependencies": {
+		"ila_ui_elements": "github:Aonrud/ila-ui-elements#semver:0.8.2"
 	}
 }

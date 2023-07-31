@@ -1,8 +1,10 @@
-This is the source repository for the Timeline of Electoral Parties in the Republic of Ireland.
+# Timeline of Electoral Parties in the Republic of Ireland
 
 [View the timeline at https://aonrud.github.io/Irish-Electoral-Parties/](https://aonrud.github.io/Irish-Electoral-Parties/)
 
 [![A screenshot of the Timeline of Electoral Parties in the Republic of Ireland](https://aonrud.github.io/Irish-Electoral-Parties/electoral_parties.png)](https://aonrud.github.io/Irish-Electoral-Parties/)
+
+This is the source repository for the diagram.
 
 ## Parties
 

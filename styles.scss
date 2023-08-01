@@ -40,22 +40,16 @@ a {
 
 button, input {
 	line-height: 2em;
-}
-
-input {
-	background: var(--tl-colour-background);
-	color: var(--tl-colour-text);
 	border: 1px solid var(--tl-colour-stroke);
 	border-radius: var(--tl-size-border);
+	background: var(--tl-colour-background);
+	color: var(--tl-colour-text);
+	padding: 0.3em;
+	font-size: 1em;
 }
 
 button {
 	cursor: pointer;
-	background: var(--tl-colour-background);
-	font-size: 1em;
-	line-height: 1.2em;
-	color: var(--tl-colour-text);
-	padding: 0.3em;
 	&:hover, &:focus {
 		background: var(--tl-colour-background-feature);
 	}

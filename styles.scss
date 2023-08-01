@@ -42,10 +42,15 @@ button, input {
 	line-height: 2em;
 }
 
-button {
-	cursor: pointer;
+input {
+	background: var(--tl-colour-background);
+	color: var(--tl-colour-text);
 	border: 1px solid var(--tl-colour-stroke);
 	border-radius: var(--tl-size-border);
+}
+
+button {
+	cursor: pointer;
 	background: var(--tl-colour-background);
 	font-size: 1em;
 	line-height: 1.2em;

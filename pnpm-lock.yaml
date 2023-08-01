@@ -30,7 +30,7 @@ devDependencies:
     version: 3.27.0
   timeline:
     specifier: github:Aonrud/Timeline.js
-    version: github.com/Aonrud/Timeline.js/2b266be0b05f793e35d617c890eb41da6908ade0
+    version: github.com/Aonrud/Timeline.js/0dddf63559ee967aaf27278e5a0bd7231ec233a8
   tippy.js:
     specifier: ^6.3.7
     version: 6.3.7
@@ -317,8 +317,8 @@ packages:
       '@popperjs/core': 2.11.8
     dev: true
 
-  github.com/Aonrud/Timeline.js/2b266be0b05f793e35d617c890eb41da6908ade0:
-    resolution: {tarball: https://codeload.github.com/Aonrud/Timeline.js/tar.gz/2b266be0b05f793e35d617c890eb41da6908ade0}
+  github.com/Aonrud/Timeline.js/0dddf63559ee967aaf27278e5a0bd7231ec233a8:
+    resolution: {tarball: https://codeload.github.com/Aonrud/Timeline.js/tar.gz/0dddf63559ee967aaf27278e5a0bd7231ec233a8}
     name: timeline
     version: 1.4.0
     optionalDependencies:

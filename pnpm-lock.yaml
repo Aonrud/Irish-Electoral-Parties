@@ -4,11 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-dependencies:
-  ila_ui_elements:
-    specifier: github:Aonrud/ila-ui-elements#semver:0.8.2
-    version: github.com/Aonrud/ila-ui-elements/66bd1b0d5d7ff2b6e064e78f7db4c7522df0cd15
-
 devDependencies:
   '@panzoom/panzoom':
     specifier: ^4.5.1
@@ -25,12 +20,15 @@ devDependencies:
   csv-rex:
     specifier: ^0.7.0
     version: 0.7.0
+  ila_ui_elements:
+    specifier: github:Aonrud/ila-ui-elements#semver:0.8.2
+    version: github.com/Aonrud/ila-ui-elements/66bd1b0d5d7ff2b6e064e78f7db4c7522df0cd15
   rollup:
     specifier: ^3.27.0
     version: 3.27.0
   timeline:
-    specifier: github:Aonrud/Timeline.js
-    version: github.com/Aonrud/Timeline.js/0dddf63559ee967aaf27278e5a0bd7231ec233a8
+    specifier: github:Aonrud/Timeline.js#semver:2.0.0
+    version: github.com/Aonrud/Timeline.js/48e2a42329e223e0c69c7b993f73d7a77c69f52a
   tippy.js:
     specifier: ^6.3.7
     version: 6.3.7
@@ -317,10 +315,10 @@ packages:
       '@popperjs/core': 2.11.8
     dev: true
 
-  github.com/Aonrud/Timeline.js/0dddf63559ee967aaf27278e5a0bd7231ec233a8:
-    resolution: {tarball: https://codeload.github.com/Aonrud/Timeline.js/tar.gz/0dddf63559ee967aaf27278e5a0bd7231ec233a8}
+  github.com/Aonrud/Timeline.js/48e2a42329e223e0c69c7b993f73d7a77c69f52a:
+    resolution: {tarball: https://codeload.github.com/Aonrud/Timeline.js/tar.gz/48e2a42329e223e0c69c7b993f73d7a77c69f52a}
     name: timeline
-    version: 1.4.0
+    version: 2.0.0
     optionalDependencies:
       '@panzoom/panzoom': 4.5.1
     dev: true
@@ -329,4 +327,4 @@ packages:
     resolution: {tarball: https://codeload.github.com/Aonrud/ila-ui-elements/tar.gz/66bd1b0d5d7ff2b6e064e78f7db4c7522df0cd15}
     name: ila_ui_elements
     version: 0.8.2
-    dev: false
+    dev: true

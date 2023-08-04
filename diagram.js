@@ -92,7 +92,6 @@ new WikipediaPopover("[data-wikipedia]");
 new Toggler(document.querySelector("[data-toggle-target]"));
 
 document.getElementById("diagram").addEventListener('timelineFind', (e) => {
-	console.log(e);
 	e.target.querySelector(`#${e.detail.id}`).click();
 	umami.track('Timeline Search', { value: e.detail.name });
 });

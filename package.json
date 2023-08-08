@@ -5,9 +5,9 @@
 		"@rollup/plugin-replace": "^5.0.2",
 		"@rollup/plugin-terser": "^0.4.3",
 		"csv-rex": "^0.7.0",
-		"rollup": "^3.27.0",
-		"timeline": "github:Aonrud/Timeline.js#semver:2.0.0",
 		"ila_ui_elements": "github:Aonrud/ila-ui-elements#semver:0.8.2",
+		"rollup": "^3.27.2",
+		"timeline": "github:Aonrud/Timeline.js",
 		"tippy.js": "^6.3.7"
 	},
 	"scripts": {

@@ -51,6 +51,8 @@ DTC,Dublin Trades Council,1923,1926,,,LP,LP,,,Centre-Left,
 IFEM,Independents for Equality Movement,2014,,,I4C,,,,,Centre-Left,
 CL,Centre Left,2014,2015,,,,,,,Centre-Left,
 LP,Labour,1912,,,,,,,#ec0000,Centre-Left,https://en.wikipedia.org/wiki/Labour_Party_(Ireland)
+CnaP,Clann na Poblachta,1946,1965,,,,,,,Centre-Left,https://en.wikipedia.org/wiki/Clann_na_Poblachta
+GL,Gluais Linn,1945,1946,TRUE,,,,,,Centre-Left,
 CDI,Community Democrats of Ireland,1979,1979,,,,,,,Centre,https://en.wikipedia.org/wiki/Community_Democrats_of_Ireland
 LPI,Liberal Party of Ireland,1967,1969,true,,,,,,Centre,https://en.wikipedia.org/wiki/Liberal_Party_of_Ireland
 SF,Sinn Féin,1905,1970,,,,,,#086629,Centre,
@@ -115,7 +117,6 @@ NA,National Action,1952,1962,TRUE,,,,,,Right,
 PC,Poblacht Chríostúil,1957,1966,TRUE,,,,,,Right,https://en.wikipedia.org/wiki/Poblacht_Chr%C3%ADost%C3%BAil
 CPnahE,Cumann Poblachta na hÉireann,1936,1937,,,,,,,,https://en.wikipedia.org/wiki/Cumann_Poblachta_na_h%C3%89ireann
 AÉ,Aontacht Éireann,1971,1984,,,FF,,,,,https://en.wikipedia.org/wiki/Aontacht_%C3%89ireann
-CnaP,Clann na Poblachta,1946,1965,,,,,,,,https://en.wikipedia.org/wiki/Clann_na_Poblachta
 RSF,Republican Sinn Féin,1986,,,,PSF,,,,,https://en.wikipedia.org/wiki/Republican_Sinn_F%C3%A9in
 NDP,National Democratic Party,1923,1923,,,,,,,,https://en.wikipedia.org/wiki/National_Democratic_Party_(Ireland)
 NatLawP,Natural Law Party,1994,2000,TRUE,,,,,,,https://en.wikipedia.org/wiki/Natural_Law_Party#Ireland

@@ -6,7 +6,7 @@ import { Toggler } from 'ila_ui_elements/dist/ila-ui.esm.js'
 
 /**
  * Add a Tippy popover with a Wikipedia summary for entries with a `data-wikipedia` attribute.
- * @param {string} elements
+ * @param {string} selector
  */
 class WikipediaPopover {
 	

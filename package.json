@@ -1,13 +1,13 @@
 {
 	"devDependencies": {
 		"@panzoom/panzoom": "^4.5.1",
-		"@rollup/plugin-node-resolve": "^15.1.0",
-		"@rollup/plugin-replace": "^5.0.2",
-		"@rollup/plugin-terser": "^0.4.3",
+		"@rollup/plugin-node-resolve": "^15.2.3",
+		"@rollup/plugin-replace": "^5.0.4",
+		"@rollup/plugin-terser": "^0.4.4",
 		"csv-rex": "^0.7.0",
-		"ila_ui_elements": "github:Aonrud/ila-ui-elements#semver:0.8.2",
-		"rollup": "^3.27.2",
-		"timeline": "github:Aonrud/Timeline.js#semver:2.1.3",
+		"ila_ui_elements": "git+https://git.aonghus.org/Irish-Left-Archive/ila-ui-elements.git#semver:0.8.2",
+		"rollup": "^3.29.4",
+		"timeline": "git+https://git.aonghus.org/aonrud/Timeline.js.git#30a1c3e763",
 		"tippy.js": "^6.3.7"
 	},
 	"scripts": {

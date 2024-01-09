@@ -86,7 +86,8 @@ IUP,Irish Unionist Party,1891,1922,,,,,,#42791b,Centre-Right,https://en.wikipedi
 BPG,Business and Professional Group,1922,1923,,,,,,,Centre-Right,https://en.wikipedia.org/wiki/Business_and_Professional_Group
 NLP,National League Party,1926,1931,,,,,,,Centre-Right,https://en.wikipedia.org/wiki/National_League_Party
 Reform,Reform Alliance,2013,2015,,Renua,FG,,,,Right,https://en.wikipedia.org/wiki/Reform_Alliance_(Ireland)
-Renua,Renua,2015,,,,,,,#b72d39,Right,https://en.wikipedia.org/wiki/Renua
+Renua,Renua,2015,2023,,Renua2,,,,#b72d39,Right,https://en.wikipedia.org/wiki/Renua
+Renua2,Centre Party of Ireland,2023,,,,,,,#00005c,Right,
 Aontú,Aontú,2019,,,,PSF,,,#f79527,Right,https://en.wikipedia.org/wiki/Aont%C3%BA
 NCM,National Citizen’s Movement,2014,2015,,,,DDI,,,Right,
 DDI,Direct Democracy Ireland,2010,,,,,,,#2a328f,Right,https://en.wikipedia.org/wiki/Direct_Democracy_Ireland
@@ -123,4 +124,3 @@ NatLawP,Natural Law Party,1994,2000,TRUE,,,,,,,https://en.wikipedia.org/wiki/Nat
 NV,New Vision,2011,2011,TRUE,,,,,,,https://en.wikipedia.org/wiki/New_Vision_(electoral_alliance)
 TPPI,The People’s Party of Ireland,1984,1988,,,,,,,,
 YIP,Young Ireland Party,1953,1955,TRUE,,,,,,,
-TCP,The Community Party,1985,1986,TRUE,,,,,,,

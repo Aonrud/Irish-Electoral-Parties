@@ -118,9 +118,10 @@ NA,National Action,1952,1962,TRUE,,,,,,Right,
 PC,Poblacht Chríostúil,1957,1966,TRUE,,,,,,Right,https://en.wikipedia.org/wiki/Poblacht_Chr%C3%ADost%C3%BAil
 CPnahE,Cumann Poblachta na hÉireann,1936,1937,,,,,,,,https://en.wikipedia.org/wiki/Cumann_Poblachta_na_h%C3%89ireann
 AÉ,Aontacht Éireann,1971,1984,,,FF,,,,,https://en.wikipedia.org/wiki/Aontacht_%C3%89ireann
-RSF,Republican Sinn Féin,1986,,,,PSF,,,,,https://en.wikipedia.org/wiki/Republican_Sinn_F%C3%A9in
+RSF,Republican Sinn Féin,1986,,,,PSF,,,,Centre-Left,https://en.wikipedia.org/wiki/Republican_Sinn_F%C3%A9in
 NDP,National Democratic Party,1923,1923,,,,,,,,https://en.wikipedia.org/wiki/National_Democratic_Party_(Ireland)
 NatLawP,Natural Law Party,1994,2000,TRUE,,,,,,,https://en.wikipedia.org/wiki/Natural_Law_Party#Ireland
 NV,New Vision,2011,2011,TRUE,,,,,,,https://en.wikipedia.org/wiki/New_Vision_(electoral_alliance)
 TPPI,The People’s Party of Ireland,1984,1988,,,,,,,,
-YIP,Young Ireland Party,1953,1955,TRUE,,,,,,,
+YIP,Young Ireland Party,1953,1955,TRUE,,,,,,Centre-Right,https://en.wikipedia.org/wiki/Independent_Ireland
+IndIre,Independent Ireland,2023,,,,,,,,,

@@ -7,7 +7,7 @@
         "csv-rex": "^0.7.0",
         "ila_ui_elements": "git+https://git.aonghus.org/Irish-Left-Archive/ila-ui-elements.git#semver:0.8.2",
         "rollup": "^3.29.4",
-        "timeline": "git+https://git.aonghus.org/aonrud/Timeline.js.git#semver:2.2.0",
+        "timeline": "git+https://git.aonghus.org/aonrud/Timeline.js.git#semver:2.2.1",
         "tippy.js": "^6.3.7"
     },
     "scripts": {

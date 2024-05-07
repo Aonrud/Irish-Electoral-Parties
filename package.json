@@ -1,17 +1,17 @@
 {
-	"devDependencies": {
-		"@panzoom/panzoom": "^4.5.1",
-		"@rollup/plugin-node-resolve": "^15.2.3",
-		"@rollup/plugin-replace": "^5.0.4",
-		"@rollup/plugin-terser": "^0.4.4",
-		"csv-rex": "^0.7.0",
-		"ila_ui_elements": "git+https://git.aonghus.org/Irish-Left-Archive/ila-ui-elements.git#semver:0.8.2",
-		"rollup": "^3.29.4",
-		"timeline": "git+https://git.aonghus.org/aonrud/Timeline.js.git#30a1c3e763",
-		"tippy.js": "^6.3.7"
-	},
-	"scripts": {
-		"js": "rollup -c",
-		"css": "sass --style compressed styles.scss docs/styles.min.css"
-	}
+    "devDependencies": {
+        "@panzoom/panzoom": "^4.5.1",
+        "@rollup/plugin-node-resolve": "^15.2.3",
+        "@rollup/plugin-replace": "^5.0.4",
+        "@rollup/plugin-terser": "^0.4.4",
+        "csv-rex": "^0.7.0",
+        "ila_ui_elements": "git+https://git.aonghus.org/Irish-Left-Archive/ila-ui-elements.git#semver:0.8.2",
+        "rollup": "^3.29.4",
+        "timeline": "git+https://git.aonghus.org/aonrud/Timeline.js.git#semver:2.2.0",
+        "tippy.js": "^6.3.7"
+    },
+    "scripts": {
+        "js": "rollup -c",
+        "css": "sass --style compressed styles.scss docs/styles.min.css"
+    }
 }

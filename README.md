@@ -67,7 +67,7 @@ Thanks to the following people for providing additions and corrections to the ti
 
 ## Licence
 
-Copyright (C) 2023 Aonghus Storey
+Copyright (C) 2023-4 Aonghus Storey
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
